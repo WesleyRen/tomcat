@@ -1,3 +1,5 @@
+
+# guide: http://www.studytonight.com/servlet/steps-to-create-servlet-using-tomcat-server
 # where to deploy testing code
 temp_test_dir=/Library/Tomcat/webapps/temp_test
 
